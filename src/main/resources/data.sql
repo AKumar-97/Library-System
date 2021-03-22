@@ -1,0 +1,1 @@
+insert into Books values ('Outliers','Malcolm Gladwell','101')
